@@ -1,10 +1,10 @@
 ## Hi, I'm Vanshita 👋
 
-🔭 I’m currently working on Urban Heat Island Effect Analysis using satellite images
-🌱 I’m currently learning Data Analytics with pyhton
-👯 I’m looking to collaborate on Data science, Machine learning, and open-source projects
-🤔 I’m intersted in Data Anyltics, AI/ML, and Bussiness Intelligence
-📫 How to reach me: vanshitaaa29@gmail.com | https://www.linkedin.com/in/vanshita-raghav-52b172283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔭 I’m currently working on Urban Heat Island Effect Analysis using satellite images<br/>
+🌱 I’m currently learning Data Analytics with pyhton<br/>
+👯 I’m looking to collaborate on Data science, Machine learning, and open-source projects<br/>
+🤔 I’m intersted in Data Anyltics, AI/ML, and Bussiness Intelligence<br/>
+📫 How to reach me:  [Gmail](vanshitaaa29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vanshita-raghav-52b172283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # 💫 About Me:
 <br>🔭 I’m currently working on Urban Heat Island Effect Analysis using satellite images<br>🌱 I’m currently learning Data Analytics with pyhton<br>👯 I’m looking to collaborate on Data science, Machine learning, and open-source projects<br>🤔 I’m intersted in Data Anyltics, AI/ML, and Bussiness Intelligence<br>📫 How to reach me: vanshitaaa29@gmail.com | https://www.linkedin.com/in/vanshita-raghav-52b172283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
